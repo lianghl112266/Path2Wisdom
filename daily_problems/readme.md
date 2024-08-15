@@ -33,6 +33,8 @@
 #### 5.3二叉树的遍历与线索二叉树
 |课本题目|答案位置|难度|  
 |-|-|-|  
+|05|\08\15\1.cpp| :yellow_square: |
+|06|\08\15\2.cpp| :green_heart: |
 |08|\08\14\1.cpp| :yellow_square: |
 |09|\08\09\2.cpp| :green_heart: |
 |10|\08\09\3.cpp| :yellow_square: |
