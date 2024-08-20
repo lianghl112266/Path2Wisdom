@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"d:\\Code\\Journey-south\\daily_problems\\08\\20\\2\\2.cpp","tests":[{"id":1724164659024,"input":"abcdef\n4\nacfaff\nappont\nemmm\nbdxeuf","output":"bdxeuf\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Journey-south\\daily_problems\\08\\20\\2\\2.cpp","group":"local","local":true}
