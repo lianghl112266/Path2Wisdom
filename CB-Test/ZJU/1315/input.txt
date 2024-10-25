@@ -1,0 +1,7 @@
+3 3
+ABC
+CDE
+EFG
+FA
+BE
+AF
